@@ -1,0 +1,10 @@
+# Core Data and Web
+pandas
+requests
+streamlit
+openpyxl
+
+# LLM and API Handling
+groq
+ratelimit
+
