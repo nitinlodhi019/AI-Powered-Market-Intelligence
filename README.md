@@ -5,6 +5,7 @@ This project is a comprehensive data pipeline built to ingest market data from m
 ## Project Demo
 
 [**demo video**](https://drive.google.com/drive/folders/1AKBrP3O1ZNioFoECQVoxsoyFCEpMf4_O?usp=sharing)
+
 [**Data Cleaning Notebook**](https://colab.research.google.com/drive/1tVx_kmFOP9uQU0dP29fwiHGo-PEq8xao?usp=sharing)
 
 Here is a quick demonstration of the final Streamlit web application, showcasing both the App Store and D2C analysis phases.
