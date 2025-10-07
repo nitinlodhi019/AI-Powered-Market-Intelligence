@@ -10,6 +10,7 @@ This project is a comprehensive data pipeline built to ingest market data from m
 
 Here is a quick demonstration of the final Streamlit web application, showcasing both the App Store and D2C analysis phases.
 
+
 <img width="1905" height="1016" alt="Screenshot 2025-09-28 183650" src="https://github.com/user-attachments/assets/cf4cc069-1567-4820-8405-174e72c13484" />
 
 
@@ -56,8 +57,8 @@ market-intel/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/nitinlodhi019/AI-Powered-Market-Intelligence>
-    cd market-intel
+    git clone https://github.com/nitinlodhi019/AI-Powered-Market-Intelligence
+    cd AI-Powered-Market-Intelligence
     ```
 
 2.  **Create and activate a virtual environment:**
